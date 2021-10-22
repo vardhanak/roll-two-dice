@@ -1,0 +1,22 @@
+body{
+    background-image: url("https://thumbs.dreamstime.com/z/dice-right-position-white-background-dice-have-six-side-number-dice-object-have-dot-number-139383616.jpg");
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+div{
+    margin-left: 450px;
+    margin-top: 100px;
+    font-size: x-large;
+}
+#button{
+    margin-left: 75px;
+}
+#result{
+    margin-left: 85px;
+}
+#dice{
+    margin-left: 48px;
+}
+h1{
+    margin-left: -15px;
+}
